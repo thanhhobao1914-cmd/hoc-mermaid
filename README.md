@@ -6,11 +6,7 @@ A[Bắt đầu] --> B[GitHub tự động hỗ trợ]
 B --> C[Không cần cài đặt]
 C --> D[Xem ngay kết quả]
 ```
-```mermaid
-graph LR
-A[VS Code] --> B[Extension]
-B --> C[Mermaid hoạt động]
-```
+
 ```mermaid
 graph TD
 A[Bước 1] --> B[Bước 2]
@@ -26,6 +22,9 @@ F((Hình tròn))
 G{Hình thoi}
 H{{Hình lục giác}}
 
+I[/Hình thang/]
+J[\Hình thang ngược\]
+```
 I[/Hình thang/]
 J[\Hình thang ngược\]
 ```
